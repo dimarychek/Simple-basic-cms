@@ -1,0 +1,12 @@
+header {
+    background: orange;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+footer {
+    background: orange;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}

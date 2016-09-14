@@ -1,0 +1,29 @@
+.admin_header {
+    background: #777;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.admin_footer {
+    background: #777;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+.admin_table {
+    width: 100%;
+}
+.admin_form label {
+    width: 100%;
+}
+.admin_form .form-item {
+    width: 100%;
+}
+.admin_main_menu ul li {
+    display: inline-block;
+    background: #777777;
+    padding: 5px 10px;
+}
+.admin_main_menu ul li a {
+    color: white;
+}
